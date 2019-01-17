@@ -1,3 +1,18 @@
+使用方法
+
+
+yum install git -y
+git clone -b master https://github.com/Anankke/ss-panel-v3-mod_Uim.git tmp && mv tmp/.git . && rm -rf tmp && git reset --hard
+chmod -R 755 *
+
+下面是源教程
+
+
+
+
+
+
+
 # HTML5 Speedtest
 
 No Flash, No Java, No Websocket, No Bullshit.
