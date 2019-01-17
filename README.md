@@ -4,8 +4,7 @@
 yum install git -y
 
 
-git clone -b master https://github.com/Anankke/ss-panel-v3-mod_Uim.git tmp && mv tmp/.git . && rm -rf tmp && git reset --hard
-
+git clone -b master https://github.com/livefwq/speedtest.git tmp && mv tmp/.git . && rm -rf tmp && git reset --hard
 
 chmod -R 755 *
 
